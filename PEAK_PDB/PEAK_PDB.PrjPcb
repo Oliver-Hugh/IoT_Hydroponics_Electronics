@@ -49,7 +49,24 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=PEAK_PDB.SchDoc
+DocumentPath=MCU.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OHHEXRVC
+
+[Document2]
+DocumentPath=AC_Power_Management.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -65,7 +82,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ENKPGRVK
 
-[Document2]
+[Document3]
 DocumentPath=PEAK_PDB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -82,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YVGDMIBE
 
-[Document3]
+[Document4]
 DocumentPath=PEAK_SCHEM_LIB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IDOKGQIE
 
-[Document4]
+[Document5]
 DocumentPath=PEAK_PCB_COMPONENTS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
