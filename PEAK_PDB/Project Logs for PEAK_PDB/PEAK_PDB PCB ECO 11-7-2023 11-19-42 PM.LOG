@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=ds_pp1 Pin=J7-1
+Removed Pin From Net: NetName=ds_pp2 Pin=J7-3
+Removed Pin From Net: NetName=ds_pp3 Pin=J7-5
+Removed Pin From Net: NetName=ds_pp4 Pin=J7-7
+Removed Pin From Net: NetName=ds_pp5 Pin=J7-9
+Removed Pin From Net: NetName=ds_pp6 Pin=J7-11
+Removed Member From Class: ClassName=AC_Power_Management Member=R22
+Added Component: Designator=J8(HDR2X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J9(HDR1X8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D2-3
+Add Pin To Net: Unknown Pin: Pin D2-4
+Add Pin To Net: Unknown Pin: Pin D2-5
+Add Pin To Net: Unknown Pin: Pin D2-6
+Added Pin To Net: NetName=pp1+ Pin=J7-1
+Added Pin To Net: NetName=pp2+ Pin=J7-3
+Added Pin To Net: NetName=pp3+ Pin=J7-5
+Added Pin To Net: NetName=pp4+ Pin=J7-7
+Added Pin To Net: NetName=pp5+ Pin=J7-9
+Added Pin To Net: NetName=pp6+ Pin=J7-11
+Added Pin To Net: NetName=fan1+ Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=fan2+ Pin=J8-3
+Added Pin To Net: NetName=GND Pin=J8-4
+Added Pin To Net: NetName=ds_pp1 Pin=J9-1
+Added Pin To Net: NetName=ds_pp2 Pin=J9-2
+Added Pin To Net: NetName=ds_pp3 Pin=J9-3
+Added Pin To Net: NetName=ds_pp4 Pin=J9-4
+Added Pin To Net: NetName=ds_pp5 Pin=J9-5
+Added Pin To Net: NetName=ds_pp6 Pin=J9-6
+Added Pin To Net: NetName=ds_fan1 Pin=J9-7
+Added Pin To Net: NetName=ds_fan2 Pin=J9-8
+Add Class Member: Failed to add class member : Component D2 BAT54CDW-7-F
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component J8 Header 2X2
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component J9 Header 8
+Added Member To Class: ClassName=AC_Power_Management Member=Component R? 0R
+Added Member To Class: ClassName=AC_Power_Management Member=Component R? 0R
+Added Member To Class: ClassName=AC_Power_Management Member=Component R? 0R
+Added Member To Class: ClassName=AC_Power_Management Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
