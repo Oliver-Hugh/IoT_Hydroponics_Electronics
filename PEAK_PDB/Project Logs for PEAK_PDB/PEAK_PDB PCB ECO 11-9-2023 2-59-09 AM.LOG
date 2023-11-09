@@ -1,0 +1,18 @@
+Added Component: Designator=D2()
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D2-3
+Add Pin To Net: Unknown Pin: Pin D2-4
+Add Pin To Net: Unknown Pin: Pin D2-5
+Add Pin To Net: Unknown Pin: Pin D2-6
+Add Class Member: Failed to add class member : Component D2 BAT54CDW-7-F
+Added Member To Class: ClassName=AC_Power_Management Member=Component R? 0R
+Added Member To Class: ClassName=AC_Power_Management Member=Component R? 0R
+Added Member To Class: ClassName=AC_Power_Management Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R

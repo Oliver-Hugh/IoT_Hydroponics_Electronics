@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=ds_pp1 Pin=J9-3
+Removed Pin From Net: NetName=ds_pp2 Pin=J9-4
+Removed Pin From Net: NetName=ds_pp3 Pin=J9-5
+Removed Pin From Net: NetName=ds_pp4 Pin=J9-6
+Removed Pin From Net: NetName=ds_pp5 Pin=J9-7
+Removed Pin From Net: NetName=ds_pp6 Pin=J9-8
+Removed Pin From Net: NetName=ds_fan1 Pin=J9-9
+Removed Pin From Net: NetName=ds_fan2 Pin=J9-10
+Added Pin To Net: NetName=ds_fan2 Pin=J9-3
+Added Pin To Net: NetName=ds_fan1 Pin=J9-4
+Added Pin To Net: NetName=ds_pp6 Pin=J9-5
+Added Pin To Net: NetName=ds_pp5 Pin=J9-6
+Added Pin To Net: NetName=ds_pp4 Pin=J9-7
+Added Pin To Net: NetName=ds_pp3 Pin=J9-8
+Added Pin To Net: NetName=ds_pp2 Pin=J9-9
+Added Pin To Net: NetName=ds_pp1 Pin=J9-10
+Added Member To Class: ClassName=AC_Power_Management Member=Component R? 0R
+Added Member To Class: ClassName=AC_Power_Management Member=Component R? 0R
+Added Member To Class: ClassName=AC_Power_Management Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R

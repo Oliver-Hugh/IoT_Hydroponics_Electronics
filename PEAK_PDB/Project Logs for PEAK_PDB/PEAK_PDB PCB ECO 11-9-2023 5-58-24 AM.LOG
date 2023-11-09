@@ -1,0 +1,18 @@
+Change Net Name : Old Net Name=NetQ3_2 New Net Name=q3a_g
+Change Net Name : Old Net Name=NetQ3_5 New Net Name=q3b_g
+Change Net Name : Old Net Name=NetQ4_2 New Net Name=q4a_g
+Change Net Name : Old Net Name=NetQ4_5 New Net Name=q4b_g
+Change Net Name : Old Net Name=NetQ5_2 New Net Name=q5a_g
+Change Net Name : Old Net Name=NetQ5_5 New Net Name=q5b_g
+Change Net Name : Old Net Name=NetQ6_2 New Net Name=q6a_g
+Change Net Name : Old Net Name=NetQ6_5 New Net Name=q6b_g
+Added Member To Class: ClassName=AC_Power_Management Member=Component R? 0R
+Added Member To Class: ClassName=AC_Power_Management Member=Component R? 0R
+Added Member To Class: ClassName=AC_Power_Management Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
+Added Member To Class: ClassName=DC_Power_Regulation Member=Component R? 0R
