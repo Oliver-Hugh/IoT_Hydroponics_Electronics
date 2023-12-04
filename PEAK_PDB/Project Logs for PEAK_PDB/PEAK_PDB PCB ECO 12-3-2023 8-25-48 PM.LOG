@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=fan1+ Pin=R?-2
+Removed Pin From Net: NetName=fan2+ Pin=R?-2
+Removed Pin From Net: NetName=pp1+ Pin=R?-2
+Removed Pin From Net: NetName=pp2+ Pin=R?-2
+Removed Pin From Net: NetName=pp3+ Pin=R?-2
+Removed Pin From Net: NetName=pp4+ Pin=R?-2
+Removed Pin From Net: NetName=pp5+ Pin=R?-2
+Removed Pin From Net: NetName=pp6+ Pin=R?-2
+Removed Member From Class: ClassName=DC_Power_Regulation Member=R?
+Added Pin To Net: NetName=pp1+ Pin=Q3-1
+Added Pin To Net: NetName=pp2+ Pin=Q3-4
+Added Pin To Net: NetName=pp3+ Pin=Q4-1
+Added Pin To Net: NetName=pp4+ Pin=Q4-4
+Added Pin To Net: NetName=pp5+ Pin=Q5-1
+Added Pin To Net: NetName=pp6+ Pin=Q5-4
+Added Pin To Net: NetName=fan1+ Pin=Q6-1
+Added Pin To Net: NetName=fan2+ Pin=Q6-4
+Added Member To Class: ClassName=AC_Power_Management Member=Component R? 0R
+Added Member To Class: ClassName=AC_Power_Management Member=Component R? 0R
+Added Member To Class: ClassName=AC_Power_Management Member=Component R? 0R
