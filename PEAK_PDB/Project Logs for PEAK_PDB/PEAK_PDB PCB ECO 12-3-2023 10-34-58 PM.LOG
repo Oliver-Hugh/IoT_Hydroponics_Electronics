@@ -1,9 +1,0 @@
-Change Component Designator: OldDesignator=R? NewDesignator=R29
-Change Component Designator: OldDesignator=R? NewDesignator=R30
-Change Component Designator: OldDesignator=R? NewDesignator=R31
-Change Component Designator: OldDesignator=R? NewDesignator=R32
-Added Member To Class: ClassName=AC_Power_Management Member=Component OP2 6N136SMT/R
-Added Member To Class: ClassName=AC_Power_Management Member=Component R29 0R
-Added Member To Class: ClassName=AC_Power_Management Member=Component R30 0R
-Added Member To Class: ClassName=AC_Power_Management Member=Component R31 0R
-Added Member To Class: ClassName=AC_Power_Management Member=Component R32 0R
